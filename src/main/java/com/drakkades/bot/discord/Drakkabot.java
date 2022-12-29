@@ -17,7 +17,7 @@ public class Drakkabot {
         // Enable the bulk delete event
         builder.setBulkDeleteSplittingEnabled(false);
         // Set activity (like "playing Something")
-        builder.setActivity(Activity.watching("Regarde ta grosse bite"));
+        builder.setActivity(Activity.watching("twitch.tv/drakkades"));
 
         builder.build();
 
